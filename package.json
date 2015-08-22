@@ -1,6 +1,6 @@
 {
   "name": "hapi-sitemap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatic Sitemap generation based on routes exposed by your hapijs site",
   "main": "index.js",
   "scripts": {
