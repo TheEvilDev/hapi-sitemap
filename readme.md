@@ -1,7 +1,3 @@
-# hapi-postman
-
-A hapijs plugin to automatically generate a sitemap route for your website
-
 ## Installation
 
 Simply install with npm and go!
