@@ -1,0 +1,38 @@
+{
+  "name": "hapi-sitemap",
+  "version": "1.0.0",
+  "description": "Automatic Sitemap generation based on routes exposed by your hapijs site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TheEvilDev/hapi-sitemap.git"
+  },
+  "keywords": [
+    "sitemap",
+    "hapijs",
+    "nodejs",
+    "SEO"
+  ],
+  "author": "Mitchell Lee <mitch@evildev.net> (http://blog.evildev.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheEvilDev/hapi-sitemap/issues"
+  },
+  "homepage": "https://github.com/TheEvilDev/hapi-sitemap#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "grunt-release": "^0.11.0",
+    "hapi": "^8.2.0",
+    "load-grunt-tasks": "^3.1.0",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  }
+}
